@@ -341,7 +341,7 @@ export default function Home() {
                       <p className="text-blue-600">Principal Healthcare, Des Moines, IA</p>
                     </div>
                     <div className="text-gray-700 font-medium mt-2 md:mt-0">
-                      Jan 2023 - Current
+                      <b>Jan 2023 - Current</b>
                     </div>
                   </div>
                   <ul className="list-disc list-inside space-y-2 text-gray-600">
@@ -362,16 +362,18 @@ export default function Home() {
                       <p className="text-blue-600">Cognizant, India</p>
                     </div>
                     <div className="text-gray-700 font-medium mt-2 md:mt-0">
-                      June 2021 - Jul 2022
+                      <b>June 2021 - Jul 2022</b>
                     </div>
                   </div>
                   <ul className="list-disc list-inside space-y-2 text-gray-600">
                     <li>Designed test plans and automated tests using Selenium WebDriver and HP ALM</li>
                     <li>Created iOS and Android test frameworks with APPIUM, Cucumber, and JavaScript</li>
                     <li>Performed Web Service API testing using SOAP UI & JMeter</li>
-                    <li>Designed Manual and Automated Tests, created Automated test cases, test plans and executed tests using HP ALM, Selenium, JUnit, TestNG, Eclipse, Git/GitHub, Jenkins, SOAP UI and REST with POSTMAN</li>
+                    <li>Designed Manual and Automated Tests, created Automated test cases, test plans and executed tests using HP ALM, Selenium, JUnit, TestNG, Eclipse, Git/GitHub,    Jenkins, SOAP UI and REST with POSTMAN</li>
                     <li>Created iOS and Android test frameworks based on APPIUM, Cucumber, and JavaScript</li>
-                    <li>•	Wrote and executed automated test cases using HP ALM, Selenium WebDriver &Soap UI to automate manual testing solutions</li>
+                    <li>Wrote and executed automated test cases using HP ALM, Selenium WebDriver &Soap UI to automate manual testing solutions</li>
+                    <li>Involved in writing the QA Test Results and Evaluation Reports</li>
+                    <li>Performed End to End testing by validating the data using Microsoft Excel</li>
                   </ul>
                 </motion.div>
               </motion.div>
